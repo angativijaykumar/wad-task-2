@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+table {
+    width: 100%;
+    margin: auto;
+}
+
+td {
+    padding: 10px;
+}
+
+h1,
+h2 {
+    margin: 20px;
+}
+
+td {
+    background-color: #f4f4f4;
+    color: #000000;
+    padding: 10px;
+}
+
+img {
+    width: 244px;
+    height: 181px;
+}
